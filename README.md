@@ -5,7 +5,7 @@
 This code tested on ubuntu 18.04.
 First, you should install wrap_ctc used
 ```
-pip install pip install torch-baidu-ctc
+pip install torch-baidu-ctc
 ```
 Reference: [wrap-ctc](https://github.com/jpuigcerver/pytorch-baidu-ctc)
 
